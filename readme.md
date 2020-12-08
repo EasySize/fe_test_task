@@ -22,8 +22,9 @@ Submission:
  - Try to avoid having a single commit repo
  - Make a readme file, with a code snippet of what my script.js widget configuration part should look like
  - I will be expecting to test your app with the following steps:
-   - git clone
-   - nvm use
+   - Copy/paste the widget configuration to this project
+   - git clone <your project>
+   - nvm use <your node version>
    - npm install/build/serve
 
 Evaluation:
