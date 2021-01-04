@@ -14,14 +14,14 @@ Your task is to build a simple javascript library with the following flow/criter
 Notes:
  - The conf object has been somewhat prefilled to help you with the task
  - Your library file should be served at `http://127.0.0.1:3355/demo.js`
- - The app should/can use any external component library in order to speed up your process
+ - The app should use an external component library in order to speed up your process
  - You shouldn't modify this project, except for the widget configuration part of the `script.js` file
 
 Submission:
  - Create a public git repo and push your code base there
  - Try to avoid having a single commit repo
  - Make a readme file, with a code snippet of what my script.js widget configuration part should look like
- - I will be expecting to test your app with the following steps:
+ - We will be expecting to test your app with the following steps:
    - Copy/paste the widget configuration to this project
    - git clone <your project>
    - nvm use <your node version>
